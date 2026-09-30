@@ -1,0 +1,501 @@
+customer_id,first_name,last_name,age,gender,city,state,country,signup_date,tenure_months,membership_tier,occupation,income_group,marital_status,education,preferred_device,referral_source
+1000001,Meera,Joshi,68,Male,Hyderabad,Telangana,India,2026-03-04,5,Basic,Engineer,Medium,Other,High School,Web,Social Media
+1000002,Karan,Agarwal,34,Male,Mumbai,Maharashtra,India,2019-05-11,87,Silver,Student,Low,Other,PhD,Android,Social Media
+1000003,Deepak,Malhotra,69,Male,Coimbatore,Tamil Nadu,India,2025-08-10,12,Basic,Teacher,Low,Married,High School,Android,Social Media
+1000004,Manish,Patel,59,Female,Noida,Uttar Pradesh,India,2020-02-01,78,Silver,Student,Low,Married,High School,Web,Friend
+1000005,Amit,Patel,66,Male,Noida,Uttar Pradesh,India,2026-01-18,7,Silver,Business,High,Single,High School,iPhone,Friend
+1000006,Prakash,Mehta,44,Male,Noida,Uttar Pradesh,India,2024-02-01,30,Silver,Engineer,Medium,Single,Bachelor,Android,Social Media
+1000007,Nikhil,Patel,64,Male,Coimbatore,Tamil Nadu,India,2023-04-04,40,Basic,Analyst,High,Married,Master,Android,Ads
+1000008,Tanvi,Kapoor,62,Male,Gurugram,Haryana,India,2025-05-12,15,Gold,Manager,Low,Single,Bachelor,Web,Email
+1000009,Riya,Iyer,58,Female,Coimbatore,Tamil Nadu,India,2025-01-16,19,Basic,Teacher,Medium,Single,High School,Android,Ads
+1000010,Amit,Kapoor,59,Female,Bengaluru,Karnataka,India,2026-01-14,7,Basic,Manager,Medium,Other,High School,Web,Referral
+1000011,Pooja,Gupta,70,Female,Indore,Madhya Pradesh,India,2020-04-14,76,Basic,Teacher,Medium,Other,Master,Web,Ads
+1000012,Varun,Jain,61,Female,Hyderabad,Telangana,India,2024-09-10,23,Basic,Designer,Medium,Other,High School,Web,Friend
+1000013,Neha,Joshi,44,Male,Mumbai,Maharashtra,India,2024-06-24,26,Basic,Developer,High,Single,PhD,Android,Email
+1000014,Deepak,Shah,56,Female,Warangal,Telangana,India,2020-05-30,75,Silver,Developer,Medium,Single,Bachelor,Web,Friend
+1000015,Sameer,Gupta,54,Female,Noida,Uttar Pradesh,India,2023-06-23,38,Basic,Engineer,Medium,Other,Bachelor,Web,Ads
+1000016,Amit,Patel,35,Male,Nagpur,Maharashtra,India,2019-01-30,91,Gold,Engineer,Medium,Married,PhD,Android,Email
+1000017,Rohit,Mehta,51,Male,Lucknow,Uttar Pradesh,India,2020-06-25,74,Basic,Consultant,Medium,Married,PhD,Web,Organic
+1000018,Pooja,Gupta,46,Male,Hyderabad,Telangana,India,2026-07-21,1,Basic,Doctor,Medium,Single,PhD,Android,Friend
+1000019,Yash,Gupta,49,Male,Chennai,Tamil Nadu,India,2024-03-09,29,Basic,Student,High,Single,Bachelor,Android,Social Media
+1000020,Akash,Singh,46,Male,Lucknow,Uttar Pradesh,India,2024-06-12,26,Basic,Consultant,Medium,Married,Master,iPhone,Referral
+1000021,Mohit,Mehta,33,Male,Lucknow,Uttar Pradesh,India,2025-03-26,17,Platinum,Developer,Medium,Single,Master,Android,Organic
+1000022,Varun,Verma,24,Male,Lucknow,Uttar Pradesh,India,2025-07-20,13,Gold,Engineer,Medium,Other,Bachelor,iPhone,Organic
+1000023,Ananya,Malhotra,60,Male,Chennai,Tamil Nadu,India,2025-05-22,15,Silver,Developer,Medium,Married,Bachelor,Web,Referral
+1000024,Arjun,Reddy,46,Female,Chennai,Tamil Nadu,India,2022-07-10,49,Silver,Engineer,Low,Other,High School,Android,Email
+1000025,Prakash,Verma,29,Female,Kochi,Kerala,India,2021-05-23,63,Gold,Designer,Medium,Married,Master,Web,Referral
+1000026,Anil,Kumar,63,Female,Mumbai,Maharashtra,India,2024-12-06,20,Basic,Engineer,Medium,Single,Master,iPhone,Email
+1000027,Manish,Agarwal,64,Male,Gurugram,Haryana,India,2021-05-12,63,Silver,Analyst,Low,Married,Master,Android,Organic
+1000028,Sameer,Bansal,31,Female,Warangal,Telangana,India,2022-09-28,47,Silver,Student,Low,Single,Bachelor,Web,Organic
+1000029,Arjun,Patel,48,Male,Indore,Madhya Pradesh,India,2023-02-21,42,Basic,Analyst,High,Single,Bachelor,Web,Organic
+1000030,Bhavna,Joshi,60,Female,Indore,Madhya Pradesh,India,2022-12-19,44,Gold,Teacher,High,Single,Bachelor,Web,Friend
+1000031,Anil,Kapoor,31,Female,Chennai,Tamil Nadu,India,2023-08-14,36,Gold,Manager,Low,Married,Master,iPhone,Ads
+1000032,Pooja,Shah,46,Male,Mumbai,Maharashtra,India,2021-07-02,61,Gold,Business,Medium,Other,PhD,Web,Email
+1000033,Divya,Mishra,37,Male,Mumbai,Maharashtra,India,2022-09-18,47,Platinum,Business,Low,Other,PhD,iPhone,Referral
+1000034,Zoya,Mehta,45,Male,Ahmedabad,Gujarat,India,2022-07-08,49,Basic,Consultant,Low,Other,Bachelor,iPhone,Social Media
+1000035,Anjali,Reddy,63,Female,Gurugram,Haryana,India,2019-10-14,82,Silver,Consultant,Medium,Other,Master,Web,Ads
+1000036,Divya,Jain,64,Female,Ahmedabad,Gujarat,India,2021-02-24,66,Silver,Consultant,Medium,Single,Master,iPhone,Ads
+1000037,Sameer,Mehta,49,Female,Gurugram,Haryana,India,2023-10-27,34,Silver,Teacher,Medium,Married,Master,Android,Ads
+1000038,Bhavna,Sharma,33,Male,Delhi,Delhi,India,2026-07-18,1,Basic,Manager,Medium,Single,PhD,iPhone,Referral
+1000039,Riya,Joshi,52,Female,Mysuru,Karnataka,India,2025-06-15,14,Basic,Analyst,High,Single,PhD,Android,Ads
+1000040,Kavya,Gupta,56,Male,Jaipur,Rajasthan,India,2024-10-22,22,Silver,Manager,Medium,Other,Master,iPhone,Email
+1000041,Suresh,Desai,31,Female,Ahmedabad,Gujarat,India,2024-08-29,24,Basic,Doctor,High,Married,PhD,Web,Ads
+1000042,Mohit,Joshi,66,Male,Jaipur,Rajasthan,India,2022-01-29,55,Basic,Designer,High,Single,Bachelor,Android,Ads
+1000043,Rohit,Malhotra,25,Male,Warangal,Telangana,India,2023-04-18,40,Basic,Manager,Medium,Single,PhD,iPhone,Email
+1000044,Prakash,Reddy,21,Female,Kolkata,West Bengal,India,2019-03-22,89,Gold,Consultant,Medium,Other,Bachelor,iPhone,Ads
+1000045,Rahul,Nair,22,Female,Ahmedabad,Gujarat,India,2022-01-22,55,Silver,Consultant,Medium,Married,Bachelor,Web,Email
+1000046,Sakshi,Kumar,26,Male,Kolkata,West Bengal,India,2019-04-21,88,Gold,Teacher,Low,Married,Master,Android,Social Media
+1000047,Rohit,Shah,38,Female,Gurugram,Haryana,India,2022-08-31,48,Gold,Manager,Low,Other,High School,iPhone,Ads
+1000048,Aditi,Joshi,69,Male,Nagpur,Maharashtra,India,2026-04-16,4,Basic,Analyst,Medium,Single,Bachelor,iPhone,Referral
+1000049,Manish,Iyer,65,Female,Mysuru,Karnataka,India,2020-04-13,76,Basic,Developer,High,Other,High School,Android,Friend
+1000050,Rahul,Kapoor,57,Female,Mumbai,Maharashtra,India,2020-03-18,77,Platinum,Doctor,Low,Other,Bachelor,Android,Referral
+1000051,Vivek,Malhotra,43,Male,Hyderabad,Telangana,India,2022-05-20,51,Silver,Engineer,Medium,Married,High School,iPhone,Social Media
+1000052,Sneha,Kumar,61,Female,Ahmedabad,Gujarat,India,2020-03-08,77,Basic,Student,High,Married,PhD,iPhone,Social Media
+1000053,Ananya,Shah,36,Female,Coimbatore,Tamil Nadu,India,2025-08-23,12,Gold,Doctor,Medium,Other,PhD,iPhone,Organic
+1000054,Isha,Iyer,52,Male,Gurugram,Haryana,India,2024-07-17,25,Gold,Designer,Medium,Other,Master,Web,Organic
+1000055,Rohit,Chopra,36,Male,Mysuru,Karnataka,India,2024-10-17,22,Silver,Doctor,Medium,Other,PhD,iPhone,Organic
+1000056,Kavya,Reddy,46,Male,Delhi,Delhi,India,2020-01-17,79,Silver,Designer,Medium,Other,Master,iPhone,Referral
+1000057,Sneha,Shah,65,Female,Gurugram,Haryana,India,2025-03-04,17,Basic,Doctor,Low,Single,Master,Android,Referral
+1000058,Suresh,Shah,34,Male,Bengaluru,Karnataka,India,2025-01-03,19,Silver,Student,Medium,Single,Bachelor,iPhone,Ads
+1000059,Vivek,Kumar,21,Female,Bengaluru,Karnataka,India,2023-01-18,43,Basic,Analyst,Medium,Other,Bachelor,Web,Social Media
+1000060,Suresh,Desai,51,Female,Mumbai,Maharashtra,India,2020-02-25,78,Basic,Analyst,Medium,Married,High School,Android,Social Media
+1000061,Bhavna,Mishra,30,Male,Nagpur,Maharashtra,India,2024-07-07,25,Platinum,Engineer,High,Single,PhD,Web,Email
+1000062,Sameer,Reddy,49,Female,Chennai,Tamil Nadu,India,2025-12-08,8,Gold,Consultant,Medium,Other,High School,Web,Referral
+1000063,Ananya,Singh,37,Male,Mysuru,Karnataka,India,2020-02-11,78,Basic,Student,Low,Single,PhD,iPhone,Referral
+1000064,Karan,Reddy,23,Female,Lucknow,Uttar Pradesh,India,2025-08-29,12,Silver,Manager,Low,Single,Master,Web,Email
+1000065,Vivek,Joshi,28,Female,Mysuru,Karnataka,India,2026-06-01,2,Silver,Business,High,Single,High School,Android,Friend
+1000066,Sneha,Reddy,28,Female,Delhi,Delhi,India,2025-09-03,11,Silver,Business,Medium,Married,PhD,Android,Email
+1000067,Manish,Sharma,59,Female,Ahmedabad,Gujarat,India,2019-06-13,86,Basic,Developer,Medium,Single,Master,Web,Organic
+1000068,Divya,Mishra,38,Female,Lucknow,Uttar Pradesh,India,2020-12-18,68,Basic,Manager,High,Married,Master,iPhone,Friend
+1000069,Rohit,Chopra,42,Male,Hyderabad,Telangana,India,2022-08-08,48,Basic,Consultant,High,Other,High School,iPhone,Organic
+1000070,Riya,Agarwal,28,Female,Coimbatore,Tamil Nadu,India,2022-07-12,49,Gold,Analyst,Medium,Other,PhD,iPhone,Organic
+1000071,Tanvi,Desai,60,Female,Kochi,Kerala,India,2021-02-07,66,Gold,Doctor,Medium,Single,Master,iPhone,Referral
+1000072,Kavya,Singh,61,Male,Hyderabad,Telangana,India,2024-06-08,26,Basic,Analyst,Medium,Single,Bachelor,Android,Social Media
+1000073,Mohit,Agarwal,66,Female,Warangal,Telangana,India,2020-04-26,76,Silver,Consultant,High,Married,Bachelor,iPhone,Email
+1000074,Varun,Kumar,59,Male,Kolkata,West Bengal,India,2020-08-15,72,Gold,Business,Medium,Married,Master,Web,Friend
+1000075,Tanvi,Kumar,58,Female,Delhi,Delhi,India,2019-01-11,91,Basic,Manager,Medium,Other,PhD,iPhone,Friend
+1000076,Rohit,Patel,35,Female,Chennai,Tamil Nadu,India,2021-02-11,66,Basic,Manager,Medium,Married,PhD,Web,Referral
+1000077,Varun,Mishra,29,Male,Lucknow,Uttar Pradesh,India,2020-09-15,71,Basic,Engineer,High,Married,High School,Web,Social Media
+1000078,Bhavna,Verma,62,Female,Warangal,Telangana,India,2019-03-04,89,Silver,Business,Medium,Other,PhD,Web,Organic
+1000079,Tanvi,Bansal,41,Female,Indore,Madhya Pradesh,India,2022-09-07,47,Basic,Engineer,Low,Other,Master,Android,Referral
+1000080,Anil,Desai,69,Male,Ahmedabad,Gujarat,India,2020-01-06,79,Basic,Business,High,Single,Master,Android,Friend
+1000081,Kavya,Agarwal,30,Female,Noida,Uttar Pradesh,India,2023-01-08,43,Basic,Teacher,Low,Single,PhD,Web,Referral
+1000082,Sneha,Shah,35,Male,Lucknow,Uttar Pradesh,India,2021-09-13,59,Silver,Analyst,High,Married,Master,Web,Email
+1000083,Neha,Malhotra,43,Female,Nagpur,Maharashtra,India,2020-10-09,70,Silver,Manager,High,Single,PhD,iPhone,Organic
+1000084,Mohit,Reddy,57,Female,Kolkata,West Bengal,India,2021-08-29,60,Basic,Consultant,Medium,Other,High School,Web,Referral
+1000085,Prakash,Joshi,59,Male,Delhi,Delhi,India,2024-07-27,25,Silver,Developer,Medium,Other,Bachelor,Web,Organic
+1000086,Aditya,Mishra,49,Female,Pune,Maharashtra,India,2026-01-14,7,Basic,Teacher,Low,Married,Master,Web,Social Media
+1000087,Priya,Agarwal,55,Male,Mysuru,Karnataka,India,2020-12-20,68,Silver,Business,High,Married,PhD,iPhone,Referral
+1000088,Bhavna,Joshi,25,Female,Hyderabad,Telangana,India,2022-10-19,46,Gold,Consultant,High,Other,Master,Android,Social Media
+1000089,Priya,Shah,50,Male,Coimbatore,Tamil Nadu,India,2019-02-27,90,Silver,Designer,Low,Single,PhD,Android,Email
+1000090,Amit,Desai,62,Male,Gurugram,Haryana,India,2025-04-18,16,Gold,Business,Medium,Single,Bachelor,Android,Organic
+1000091,Kavya,Bansal,27,Male,Lucknow,Uttar Pradesh,India,2022-05-31,51,Basic,Manager,Medium,Other,PhD,Web,Referral
+1000092,Rohit,Shah,52,Male,Ahmedabad,Gujarat,India,2020-09-24,71,Basic,Designer,Low,Married,Bachelor,iPhone,Organic
+1000093,Riya,Shah,24,Female,Indore,Madhya Pradesh,India,2023-02-13,42,Basic,Engineer,High,Married,High School,Web,Ads
+1000094,Kavya,Kumar,42,Male,Mumbai,Maharashtra,India,2026-03-13,5,Gold,Doctor,Low,Other,Bachelor,Web,Ads
+1000095,Aarav,Shah,59,Male,Gurugram,Haryana,India,2021-08-12,60,Gold,Teacher,High,Other,Master,Android,Organic
+1000096,Prakash,Joshi,21,Male,Mumbai,Maharashtra,India,2026-05-31,3,Silver,Analyst,Low,Single,Bachelor,Web,Social Media
+1000097,Sameer,Iyer,51,Male,Hyderabad,Telangana,India,2024-11-24,21,Silver,Engineer,Medium,Single,High School,Web,Referral
+1000098,Aditi,Patel,62,Female,Delhi,Delhi,India,2024-11-05,21,Platinum,Consultant,Medium,Single,PhD,Web,Social Media
+1000099,Bhavna,Verma,59,Female,Nagpur,Maharashtra,India,2019-10-29,82,Basic,Developer,Medium,Other,Master,iPhone,Email
+1000100,Sakshi,Gupta,53,Female,Delhi,Delhi,India,2024-12-13,20,Gold,Engineer,High,Other,Bachelor,iPhone,Social Media
+1000101,Riya,Malhotra,50,Female,Ahmedabad,Gujarat,India,2021-07-24,61,Silver,Designer,Medium,Other,Master,iPhone,Ads
+1000102,Ananya,Malhotra,26,Male,Nagpur,Maharashtra,India,2024-04-26,28,Basic,Designer,High,Other,High School,Web,Email
+1000103,Prakash,Malhotra,47,Male,Gurugram,Haryana,India,2025-04-19,16,Gold,Analyst,High,Other,Master,iPhone,Organic
+1000104,Suresh,Joshi,30,Male,Kochi,Kerala,India,2025-06-25,14,Gold,Designer,High,Married,High School,iPhone,Email
+1000105,Meera,Sharma,59,Male,Ahmedabad,Gujarat,India,2021-07-15,61,Basic,Business,High,Married,High School,Android,Ads
+1000106,Aditi,Verma,30,Male,Kolkata,West Bengal,India,2025-05-08,15,Silver,Doctor,Medium,Married,Master,Android,Friend
+1000107,Bhavna,Singh,24,Male,Gurugram,Haryana,India,2022-06-30,50,Gold,Analyst,Medium,Married,PhD,Web,Social Media
+1000108,Isha,Agarwal,38,Female,Jaipur,Rajasthan,India,2024-06-12,26,Basic,Consultant,Low,Other,PhD,Web,Referral
+1000109,Akash,Sharma,46,Male,Pune,Maharashtra,India,2022-06-17,50,Basic,Doctor,Medium,Married,Master,iPhone,Organic
+1000110,Arjun,Kapoor,32,Female,Lucknow,Uttar Pradesh,India,2019-02-01,90,Silver,Doctor,Medium,Other,Master,Android,Social Media
+1000111,Amit,Nair,50,Male,Ahmedabad,Gujarat,India,2019-06-23,86,Silver,Developer,Medium,Other,PhD,iPhone,Organic
+1000112,Sneha,Iyer,31,Female,Mumbai,Maharashtra,India,2023-07-18,37,Basic,Engineer,Low,Other,PhD,Web,Organic
+1000113,Pooja,Singh,35,Female,Delhi,Delhi,India,2023-06-10,38,Basic,Engineer,Medium,Single,Master,iPhone,Referral
+1000114,Bhavna,Shah,27,Male,Warangal,Telangana,India,2026-03-28,5,Basic,Developer,Low,Other,High School,Android,Referral
+1000115,Zoya,Jain,64,Female,Jaipur,Rajasthan,India,2024-07-16,25,Basic,Designer,Low,Single,PhD,iPhone,Referral
+1000116,Varun,Verma,43,Male,Coimbatore,Tamil Nadu,India,2022-05-25,51,Basic,Manager,Low,Married,Master,Android,Referral
+1000117,Yash,Patel,50,Female,Kochi,Kerala,India,2020-01-05,79,Basic,Developer,Medium,Married,PhD,Web,Ads
+1000118,Ananya,Agarwal,42,Male,Jaipur,Rajasthan,India,2019-09-11,83,Silver,Analyst,Low,Married,PhD,Web,Email
+1000119,Mohit,Kapoor,44,Female,Bengaluru,Karnataka,India,2025-11-02,9,Basic,Designer,Medium,Single,Master,Android,Friend
+1000120,Manish,Jain,39,Female,Indore,Madhya Pradesh,India,2020-01-23,79,Gold,Designer,Low,Other,Bachelor,iPhone,Friend
+1000121,Ananya,Reddy,59,Male,Kolkata,West Bengal,India,2026-05-11,3,Silver,Designer,High,Other,High School,Web,Referral
+1000122,Priya,Reddy,22,Female,Kochi,Kerala,India,2023-10-01,34,Basic,Doctor,Medium,Married,Bachelor,Android,Ads
+1000123,Varun,Bansal,27,Female,Nagpur,Maharashtra,India,2020-09-26,71,Gold,Student,Low,Married,Bachelor,Web,Social Media
+1000124,Deepak,Desai,65,Male,Bengaluru,Karnataka,India,2020-09-23,71,Basic,Designer,Medium,Single,PhD,Web,Friend
+1000125,Suresh,Mehta,40,Male,Chennai,Tamil Nadu,India,2024-01-13,31,Basic,Developer,High,Married,Master,iPhone,Email
+1000126,Arjun,Shah,33,Male,Ahmedabad,Gujarat,India,2024-11-30,21,Basic,Manager,High,Other,High School,Web,Email
+1000127,Deepak,Shah,69,Male,Delhi,Delhi,India,2020-05-25,75,Basic,Student,Low,Married,High School,Android,Social Media
+1000128,Riya,Agarwal,24,Female,Mumbai,Maharashtra,India,2022-12-02,44,Basic,Consultant,High,Married,Bachelor,Android,Friend
+1000129,Aditya,Reddy,29,Male,Gurugram,Haryana,India,2020-02-10,78,Gold,Manager,Medium,Single,PhD,iPhone,Email
+1000130,Isha,Kumar,37,Male,Nagpur,Maharashtra,India,2019-01-22,91,Silver,Developer,Medium,Single,Master,Android,Friend
+1000131,Sneha,Verma,47,Male,Pune,Maharashtra,India,2020-05-14,75,Basic,Manager,Medium,Single,Bachelor,Web,Ads
+1000132,Prakash,Joshi,60,Male,Ahmedabad,Gujarat,India,2022-04-08,52,Silver,Teacher,Medium,Single,Master,Android,Email
+1000133,Suresh,Patel,45,Male,Kochi,Kerala,India,2025-02-06,18,Silver,Designer,Medium,Single,Master,Android,Friend
+1000134,Aditya,Iyer,29,Female,Hyderabad,Telangana,India,2021-09-14,59,Silver,Teacher,High,Other,PhD,Web,Social Media
+1000135,Sneha,Patel,25,Male,Bengaluru,Karnataka,India,2026-01-31,7,Basic,Analyst,Medium,Single,Master,iPhone,Email
+1000136,Aditya,Mehta,37,Female,Indore,Madhya Pradesh,India,2023-06-20,38,Basic,Analyst,High,Married,Master,Android,Friend
+1000137,Pooja,Singh,45,Female,Kolkata,West Bengal,India,2023-11-25,33,Silver,Manager,Medium,Other,Master,Android,Referral
+1000138,Divya,Bansal,59,Female,Nagpur,Maharashtra,India,2023-10-05,34,Basic,Engineer,Low,Other,Master,iPhone,Social Media
+1000139,Sameer,Iyer,65,Male,Ahmedabad,Gujarat,India,2025-10-04,10,Basic,Designer,Medium,Married,Master,Web,Organic
+1000140,Deepak,Sharma,53,Female,Kolkata,West Bengal,India,2019-11-04,81,Basic,Developer,Medium,Married,High School,Android,Organic
+1000141,Zoya,Patel,45,Female,Noida,Uttar Pradesh,India,2021-08-24,60,Silver,Manager,High,Married,PhD,Android,Email
+1000142,Nikhil,Shah,46,Female,Kochi,Kerala,India,2020-07-17,73,Basic,Engineer,Low,Single,PhD,Web,Social Media
+1000143,Manish,Desai,70,Female,Hyderabad,Telangana,India,2025-04-19,16,Basic,Developer,Medium,Married,Bachelor,Android,Ads
+1000144,Sameer,Verma,66,Male,Jaipur,Rajasthan,India,2019-10-31,82,Gold,Designer,Medium,Other,High School,Web,Email
+1000145,Divya,Iyer,66,Male,Delhi,Delhi,India,2022-04-04,52,Silver,Engineer,High,Single,Bachelor,iPhone,Organic
+1000146,Yash,Kumar,50,Female,Indore,Madhya Pradesh,India,2023-01-18,43,Silver,Engineer,Low,Married,PhD,Web,Social Media
+1000147,Amit,Desai,41,Male,Nagpur,Maharashtra,India,2023-08-05,36,Silver,Student,Medium,Other,Bachelor,Android,Social Media
+1000148,Bhavna,Reddy,54,Male,Pune,Maharashtra,India,2024-08-21,24,Basic,Designer,High,Single,Master,Web,Friend
+1000149,Yash,Shah,61,Male,Coimbatore,Tamil Nadu,India,2019-11-20,81,Basic,Business,Medium,Single,Bachelor,Web,Email
+1000150,Aditya,Sharma,57,Female,Bengaluru,Karnataka,India,2020-09-23,71,Basic,Developer,Medium,Single,PhD,Web,Referral
+1000151,Neha,Chopra,62,Female,Lucknow,Uttar Pradesh,India,2019-05-05,87,Basic,Consultant,Medium,Single,High School,Android,Social Media
+1000152,Pooja,Jain,34,Female,Lucknow,Uttar Pradesh,India,2023-08-30,36,Basic,Designer,Medium,Married,PhD,Android,Friend
+1000153,Kavya,Desai,41,Male,Indore,Madhya Pradesh,India,2024-10-10,22,Basic,Manager,Low,Single,High School,iPhone,Social Media
+1000154,Nikhil,Mishra,31,Male,Ahmedabad,Gujarat,India,2025-11-25,9,Silver,Doctor,Medium,Married,PhD,iPhone,Friend
+1000155,Varun,Desai,46,Male,Mumbai,Maharashtra,India,2024-07-30,25,Platinum,Doctor,Medium,Single,High School,iPhone,Social Media
+1000156,Aarav,Gupta,55,Female,Lucknow,Uttar Pradesh,India,2025-09-13,11,Basic,Business,Medium,Married,Master,Android,Social Media
+1000157,Yash,Reddy,44,Male,Indore,Madhya Pradesh,India,2019-07-29,85,Basic,Student,Medium,Other,Master,Web,Referral
+1000158,Riya,Iyer,27,Male,Hyderabad,Telangana,India,2025-11-07,9,Gold,Designer,Medium,Married,Bachelor,Android,Email
+1000159,Aditya,Kumar,23,Male,Kolkata,West Bengal,India,2024-09-16,23,Silver,Manager,Medium,Single,Bachelor,iPhone,Email
+1000160,Neha,Mishra,60,Female,Bengaluru,Karnataka,India,2022-07-28,49,Basic,Student,Medium,Other,Master,iPhone,Organic
+1000161,Neha,Sharma,47,Male,Gurugram,Haryana,India,2023-02-17,42,Silver,Business,High,Other,Bachelor,Web,Organic
+1000162,Rahul,Kumar,54,Male,Lucknow,Uttar Pradesh,India,2025-07-18,13,Gold,Doctor,Low,Other,High School,Android,Organic
+1000163,Rohit,Mehta,30,Female,Gurugram,Haryana,India,2023-12-12,32,Basic,Developer,High,Other,High School,Web,Ads
+1000164,Suresh,Agarwal,63,Female,Mysuru,Karnataka,India,2024-10-25,22,Basic,Teacher,Medium,Other,Master,Web,Friend
+1000165,Kavya,Shah,33,Female,Coimbatore,Tamil Nadu,India,2026-07-31,1,Silver,Doctor,High,Married,Master,Web,Ads
+1000166,Yash,Shah,43,Female,Gurugram,Haryana,India,2024-06-25,26,Basic,Developer,Medium,Married,PhD,iPhone,Ads
+1000167,Ananya,Iyer,66,Female,Pune,Maharashtra,India,2022-04-04,52,Gold,Business,Medium,Single,Bachelor,Web,Friend
+1000168,Kavya,Joshi,27,Male,Coimbatore,Tamil Nadu,India,2025-04-21,16,Basic,Student,Low,Single,High School,Android,Social Media
+1000169,Arjun,Sharma,64,Male,Lucknow,Uttar Pradesh,India,2022-09-14,47,Platinum,Teacher,Medium,Married,PhD,Web,Ads
+1000170,Akash,Verma,62,Female,Gurugram,Haryana,India,2022-03-22,53,Silver,Doctor,Medium,Other,High School,Android,Social Media
+1000171,Divya,Reddy,52,Female,Pune,Maharashtra,India,2020-12-21,68,Gold,Analyst,Medium,Other,High School,iPhone,Friend
+1000172,Varun,Desai,29,Female,Indore,Madhya Pradesh,India,2024-02-05,30,Basic,Engineer,Medium,Other,PhD,Web,Friend
+1000173,Zoya,Mehta,39,Female,Mumbai,Maharashtra,India,2021-02-01,66,Basic,Consultant,High,Other,Master,Android,Social Media
+1000174,Suresh,Nair,29,Male,Hyderabad,Telangana,India,2026-07-04,1,Platinum,Analyst,Medium,Single,PhD,iPhone,Friend
+1000175,Priya,Joshi,62,Female,Mumbai,Maharashtra,India,2022-05-21,51,Basic,Engineer,Medium,Single,PhD,Web,Email
+1000176,Karan,Joshi,44,Female,Hyderabad,Telangana,India,2022-06-27,50,Platinum,Manager,Low,Other,Master,iPhone,Referral
+1000177,Kavya,Jain,69,Male,Lucknow,Uttar Pradesh,India,2025-02-27,18,Gold,Engineer,Medium,Other,Master,Android,Email
+1000178,Vivek,Kumar,57,Male,Pune,Maharashtra,India,2020-04-04,76,Basic,Student,Medium,Other,Bachelor,Web,Email
+1000179,Sneha,Kumar,24,Female,Nagpur,Maharashtra,India,2024-06-25,26,Silver,Manager,Medium,Other,PhD,Web,Friend
+1000180,Isha,Mishra,21,Female,Kolkata,West Bengal,India,2019-03-31,89,Basic,Consultant,Medium,Single,High School,Android,Social Media
+1000181,Arjun,Malhotra,32,Female,Delhi,Delhi,India,2019-05-10,87,Basic,Consultant,Medium,Married,PhD,Android,Referral
+1000182,Prakash,Gupta,62,Male,Indore,Madhya Pradesh,India,2026-06-03,2,Basic,Student,Medium,Single,Bachelor,Android,Organic
+1000183,Rahul,Joshi,55,Female,Jaipur,Rajasthan,India,2022-05-07,51,Basic,Designer,Low,Single,High School,Android,Referral
+1000184,Amit,Gupta,34,Male,Mumbai,Maharashtra,India,2023-09-14,35,Silver,Manager,Medium,Other,High School,Android,Referral
+1000185,Vivek,Mehta,35,Female,Kolkata,West Bengal,India,2019-07-01,85,Gold,Analyst,Low,Married,Bachelor,Web,Email
+1000186,Bhavna,Agarwal,40,Male,Gurugram,Haryana,India,2022-07-30,49,Basic,Business,Medium,Other,Bachelor,Web,Referral
+1000187,Prakash,Kapoor,24,Female,Indore,Madhya Pradesh,India,2023-10-16,34,Gold,Designer,Medium,Married,Bachelor,iPhone,Social Media
+1000188,Karan,Reddy,36,Female,Indore,Madhya Pradesh,India,2021-01-23,67,Gold,Teacher,High,Single,PhD,iPhone,Email
+1000189,Manish,Mehta,36,Female,Warangal,Telangana,India,2024-12-10,20,Basic,Engineer,High,Married,High School,Web,Referral
+1000190,Aditya,Verma,45,Female,Pune,Maharashtra,India,2021-02-19,66,Basic,Developer,Medium,Other,Bachelor,iPhone,Ads
+1000191,Gaurav,Gupta,34,Male,Delhi,Delhi,India,2022-09-25,47,Silver,Manager,High,Other,Bachelor,iPhone,Ads
+1000192,Sneha,Bansal,45,Female,Gurugram,Haryana,India,2025-03-11,17,Silver,Business,Medium,Other,PhD,iPhone,Organic
+1000193,Nikhil,Malhotra,44,Male,Gurugram,Haryana,India,2024-04-07,28,Basic,Doctor,Medium,Single,Master,Web,Email
+1000194,Gaurav,Nair,30,Female,Ahmedabad,Gujarat,India,2025-06-30,14,Basic,Developer,High,Married,Master,iPhone,Social Media
+1000195,Prakash,Singh,31,Female,Lucknow,Uttar Pradesh,India,2026-03-13,5,Basic,Student,Medium,Other,High School,Web,Organic
+1000196,Arjun,Joshi,47,Male,Pune,Maharashtra,India,2019-11-01,81,Basic,Teacher,Low,Other,PhD,iPhone,Organic
+1000197,Aarav,Bansal,22,Female,Lucknow,Uttar Pradesh,India,2025-12-05,8,Silver,Analyst,Low,Other,Master,Web,Friend
+1000198,Anil,Gupta,32,Female,Kochi,Kerala,India,2019-03-12,89,Silver,Doctor,Low,Other,Master,iPhone,Friend
+1000199,Sneha,Mishra,46,Female,Nagpur,Maharashtra,India,2023-06-14,38,Basic,Doctor,Medium,Single,High School,Android,Social Media
+1000200,Aarav,Singh,24,Female,Kolkata,West Bengal,India,2023-04-03,40,Basic,Consultant,Medium,Married,High School,Web,Organic
+1000201,Aditya,Verma,38,Female,Mysuru,Karnataka,India,2021-07-30,61,Silver,Business,High,Other,High School,Android,Friend
+1000202,Riya,Verma,69,Male,Mysuru,Karnataka,India,2019-03-06,89,Basic,Developer,Low,Married,Master,iPhone,Referral
+1000203,Anil,Malhotra,24,Female,Nagpur,Maharashtra,India,2020-07-27,73,Basic,Engineer,Medium,Other,PhD,iPhone,Organic
+1000204,Karan,Iyer,52,Female,Coimbatore,Tamil Nadu,India,2026-02-10,6,Silver,Consultant,Medium,Other,PhD,Android,Email
+1000205,Meera,Kumar,26,Male,Chennai,Tamil Nadu,India,2022-04-24,52,Basic,Teacher,Medium,Married,Master,Android,Organic
+1000206,Meera,Gupta,44,Female,Delhi,Delhi,India,2019-01-22,91,Basic,Teacher,Medium,Other,PhD,Android,Organic
+1000207,Nikhil,Kapoor,59,Male,Noida,Uttar Pradesh,India,2020-01-03,79,Basic,Consultant,Medium,Single,Bachelor,Web,Email
+1000208,Meera,Reddy,29,Male,Kolkata,West Bengal,India,2020-11-25,69,Basic,Teacher,Low,Married,Master,iPhone,Friend
+1000209,Kavya,Chopra,37,Female,Nagpur,Maharashtra,India,2024-06-06,26,Silver,Doctor,Medium,Single,Master,Android,Social Media
+1000210,Pooja,Malhotra,49,Female,Kolkata,West Bengal,India,2022-09-22,47,Gold,Developer,Low,Married,Bachelor,iPhone,Friend
+1000211,Tanvi,Mishra,39,Female,Kolkata,West Bengal,India,2020-12-28,68,Gold,Designer,Medium,Married,Master,Android,Email
+1000212,Yash,Sharma,64,Male,Indore,Madhya Pradesh,India,2021-03-29,65,Platinum,Manager,High,Single,PhD,iPhone,Referral
+1000213,Neha,Joshi,29,Female,Ahmedabad,Gujarat,India,2019-10-11,82,Basic,Teacher,Medium,Married,High School,iPhone,Email
+1000214,Aditya,Iyer,55,Female,Kolkata,West Bengal,India,2024-05-16,27,Silver,Student,Medium,Single,High School,Android,Referral
+1000215,Aditya,Mishra,62,Male,Noida,Uttar Pradesh,India,2026-06-15,2,Platinum,Consultant,High,Married,PhD,Android,Organic
+1000216,Vikas,Bansal,53,Male,Coimbatore,Tamil Nadu,India,2020-02-08,78,Silver,Developer,Low,Married,PhD,iPhone,Referral
+1000217,Aditi,Chopra,43,Male,Kochi,Kerala,India,2025-08-07,12,Basic,Consultant,High,Single,High School,Web,Ads
+1000218,Isha,Agarwal,50,Female,Delhi,Delhi,India,2022-11-27,45,Silver,Manager,Low,Other,PhD,iPhone,Organic
+1000219,Pooja,Gupta,22,Male,Pune,Maharashtra,India,2022-05-14,51,Silver,Teacher,High,Other,Bachelor,Web,Ads
+1000220,Sakshi,Desai,56,Female,Bengaluru,Karnataka,India,2025-03-10,17,Basic,Consultant,Medium,Single,PhD,iPhone,Organic
+1000221,Sakshi,Kapoor,58,Female,Mysuru,Karnataka,India,2025-11-20,9,Basic,Doctor,Low,Other,High School,Web,Organic
+1000222,Gaurav,Desai,41,Female,Bengaluru,Karnataka,India,2025-01-08,19,Basic,Manager,Medium,Other,Master,Web,Social Media
+1000223,Prakash,Desai,43,Male,Kolkata,West Bengal,India,2025-11-08,9,Silver,Business,High,Other,High School,Web,Ads
+1000224,Anjali,Singh,40,Male,Hyderabad,Telangana,India,2022-07-06,49,Basic,Teacher,Medium,Married,Bachelor,Web,Social Media
+1000225,Vivek,Singh,61,Female,Bengaluru,Karnataka,India,2023-09-29,35,Silver,Manager,Medium,Single,Master,iPhone,Email
+1000226,Arjun,Mehta,52,Male,Noida,Uttar Pradesh,India,2019-08-08,84,Gold,Student,Medium,Married,PhD,Web,Social Media
+1000227,Ananya,Mishra,31,Female,Jaipur,Rajasthan,India,2023-08-30,36,Basic,Doctor,Medium,Married,Bachelor,Web,Friend
+1000228,Varun,Gupta,56,Female,Jaipur,Rajasthan,India,2020-11-19,69,Silver,Business,Medium,Married,High School,Web,Social Media
+1000229,Kavya,Reddy,27,Female,Mysuru,Karnataka,India,2025-02-15,18,Gold,Analyst,Medium,Married,High School,iPhone,Organic
+1000230,Sakshi,Singh,66,Female,Mysuru,Karnataka,India,2021-08-28,60,Silver,Doctor,High,Single,Master,Web,Friend
+1000231,Mohit,Reddy,41,Male,Indore,Madhya Pradesh,India,2025-09-10,11,Silver,Student,High,Other,High School,Android,Social Media
+1000232,Arjun,Joshi,65,Male,Coimbatore,Tamil Nadu,India,2019-08-31,84,Basic,Designer,High,Other,PhD,iPhone,Ads
+1000233,Sameer,Verma,45,Female,Coimbatore,Tamil Nadu,India,2025-06-23,14,Silver,Engineer,Medium,Other,Master,Web,Friend
+1000234,Aarav,Verma,58,Female,Lucknow,Uttar Pradesh,India,2024-02-06,30,Silver,Manager,Medium,Other,Master,Android,Email
+1000235,Tanvi,Shah,34,Female,Mysuru,Karnataka,India,2023-06-18,38,Basic,Business,Medium,Other,Bachelor,Web,Social Media
+1000236,Sneha,Sharma,27,Male,Pune,Maharashtra,India,2022-11-08,45,Basic,Teacher,Medium,Single,PhD,Android,Referral
+1000237,Ananya,Iyer,38,Male,Delhi,Delhi,India,2020-06-24,74,Basic,Designer,Medium,Other,Bachelor,Android,Social Media
+1000238,Ananya,Gupta,48,Male,Delhi,Delhi,India,2026-01-06,7,Basic,Manager,Low,Other,Bachelor,Web,Referral
+1000239,Pooja,Gupta,65,Male,Mumbai,Maharashtra,India,2023-12-28,32,Platinum,Consultant,Medium,Married,High School,Android,Social Media
+1000240,Priya,Reddy,41,Male,Hyderabad,Telangana,India,2020-01-01,79,Basic,Teacher,Medium,Other,Bachelor,Android,Email
+1000241,Prakash,Mehta,49,Male,Mumbai,Maharashtra,India,2025-04-26,16,Silver,Teacher,High,Other,PhD,Android,Organic
+1000242,Rahul,Iyer,58,Male,Warangal,Telangana,India,2020-02-16,78,Platinum,Designer,Medium,Single,Master,Web,Organic
+1000243,Aditi,Reddy,70,Female,Indore,Madhya Pradesh,India,2021-10-13,58,Basic,Developer,Medium,Other,PhD,iPhone,Referral
+1000244,Anjali,Joshi,45,Female,Chennai,Tamil Nadu,India,2019-08-12,84,Silver,Developer,Low,Single,Master,iPhone,Ads
+1000245,Divya,Chopra,55,Female,Ahmedabad,Gujarat,India,2023-05-04,39,Platinum,Engineer,Low,Single,High School,iPhone,Ads
+1000246,Mohit,Agarwal,53,Female,Pune,Maharashtra,India,2019-06-13,86,Gold,Consultant,Medium,Single,Bachelor,iPhone,Organic
+1000247,Vivek,Nair,30,Male,Nagpur,Maharashtra,India,2022-06-23,50,Basic,Engineer,Medium,Married,Bachelor,Android,Ads
+1000248,Akash,Reddy,50,Male,Ahmedabad,Gujarat,India,2019-12-20,80,Silver,Teacher,Low,Other,Bachelor,Web,Organic
+1000249,Vikas,Shah,54,Female,Lucknow,Uttar Pradesh,India,2020-11-02,69,Basic,Teacher,Medium,Married,High School,Android,Friend
+1000250,Zoya,Verma,37,Male,Coimbatore,Tamil Nadu,India,2023-10-25,34,Silver,Student,Medium,Married,Bachelor,iPhone,Ads
+1000251,Varun,Sharma,35,Male,Hyderabad,Telangana,India,2021-11-10,57,Basic,Analyst,Low,Married,Master,iPhone,Ads
+1000252,Nikhil,Joshi,35,Female,Pune,Maharashtra,India,2021-01-03,67,Basic,Designer,Medium,Single,Master,Android,Email
+1000253,Vikas,Patel,35,Male,Pune,Maharashtra,India,2026-07-20,1,Platinum,Engineer,High,Married,Master,iPhone,Organic
+1000254,Gaurav,Reddy,44,Male,Jaipur,Rajasthan,India,2025-03-15,17,Silver,Business,Medium,Single,PhD,iPhone,Email
+1000255,Aarav,Malhotra,30,Male,Mysuru,Karnataka,India,2024-07-13,25,Basic,Student,Medium,Other,High School,iPhone,Organic
+1000256,Isha,Agarwal,27,Female,Kolkata,West Bengal,India,2026-05-16,3,Platinum,Consultant,Medium,Single,Bachelor,Web,Friend
+1000257,Rohit,Iyer,54,Male,Pune,Maharashtra,India,2020-01-17,79,Silver,Engineer,Medium,Other,Bachelor,Web,Social Media
+1000258,Arjun,Joshi,63,Female,Pune,Maharashtra,India,2019-11-03,81,Basic,Designer,High,Married,Master,iPhone,Social Media
+1000259,Arjun,Mishra,33,Male,Chennai,Tamil Nadu,India,2022-01-18,55,Basic,Engineer,Low,Married,Master,iPhone,Organic
+1000260,Neha,Desai,49,Male,Noida,Uttar Pradesh,India,2025-01-04,19,Basic,Engineer,Low,Other,Master,Web,Referral
+1000261,Bhavna,Verma,41,Male,Pune,Maharashtra,India,2025-10-07,10,Silver,Designer,Medium,Single,Master,iPhone,Ads
+1000262,Yash,Joshi,56,Female,Kolkata,West Bengal,India,2019-05-08,87,Basic,Engineer,High,Single,High School,Android,Organic
+1000263,Priya,Verma,46,Male,Warangal,Telangana,India,2021-06-29,62,Silver,Business,High,Single,High School,Android,Ads
+1000264,Pooja,Gupta,26,Male,Jaipur,Rajasthan,India,2026-03-30,5,Basic,Manager,Low,Other,PhD,Web,Social Media
+1000265,Sakshi,Singh,64,Female,Mumbai,Maharashtra,India,2024-07-25,25,Basic,Teacher,Medium,Married,Bachelor,Android,Email
+1000266,Rohit,Bansal,52,Female,Chennai,Tamil Nadu,India,2025-12-11,8,Silver,Engineer,Medium,Single,PhD,Android,Referral
+1000267,Prakash,Chopra,45,Male,Chennai,Tamil Nadu,India,2024-11-23,21,Silver,Manager,Medium,Other,Master,iPhone,Friend
+1000268,Karan,Sharma,59,Female,Mumbai,Maharashtra,India,2021-01-06,67,Gold,Business,Low,Married,Master,Web,Ads
+1000269,Kavya,Shah,63,Male,Hyderabad,Telangana,India,2020-10-15,70,Silver,Analyst,Medium,Single,PhD,iPhone,Ads
+1000270,Prakash,Mishra,68,Female,Chennai,Tamil Nadu,India,2020-12-22,68,Basic,Designer,High,Other,Bachelor,Web,Ads
+1000271,Tanvi,Patel,32,Female,Indore,Madhya Pradesh,India,2024-07-09,25,Basic,Doctor,Medium,Single,PhD,Android,Friend
+1000272,Divya,Nair,42,Male,Mysuru,Karnataka,India,2025-11-20,9,Basic,Teacher,Medium,Single,High School,Web,Friend
+1000273,Anil,Nair,58,Female,Noida,Uttar Pradesh,India,2019-10-25,82,Basic,Teacher,High,Other,PhD,Web,Social Media
+1000274,Yash,Jain,66,Male,Gurugram,Haryana,India,2026-04-13,4,Gold,Doctor,Medium,Single,PhD,iPhone,Referral
+1000275,Aarav,Mishra,67,Male,Warangal,Telangana,India,2022-04-21,52,Basic,Developer,Low,Other,Master,Web,Ads
+1000276,Pooja,Verma,30,Female,Hyderabad,Telangana,India,2026-03-04,5,Basic,Designer,Low,Single,Master,iPhone,Organic
+1000277,Amit,Iyer,65,Male,Mysuru,Karnataka,India,2021-12-22,56,Basic,Engineer,Medium,Single,PhD,iPhone,Referral
+1000278,Rahul,Iyer,52,Female,Bengaluru,Karnataka,India,2023-09-15,35,Silver,Engineer,High,Other,Bachelor,Android,Social Media
+1000279,Nikhil,Shah,22,Female,Pune,Maharashtra,India,2019-10-29,82,Platinum,Engineer,Medium,Married,Bachelor,Web,Organic
+1000280,Suresh,Sharma,59,Female,Nagpur,Maharashtra,India,2025-02-18,18,Basic,Teacher,Medium,Married,Bachelor,Android,Organic
+1000281,Yash,Bansal,47,Male,Mysuru,Karnataka,India,2022-09-18,47,Basic,Business,Medium,Single,High School,iPhone,Email
+1000282,Priya,Sharma,24,Male,Lucknow,Uttar Pradesh,India,2025-03-01,17,Basic,Business,High,Other,PhD,Android,Organic
+1000283,Mohit,Verma,61,Male,Mysuru,Karnataka,India,2019-04-16,88,Silver,Engineer,Medium,Married,PhD,iPhone,Referral
+1000284,Priya,Kapoor,32,Female,Nagpur,Maharashtra,India,2021-12-21,56,Basic,Manager,Low,Married,PhD,iPhone,Ads
+1000285,Anil,Verma,69,Male,Pune,Maharashtra,India,2022-01-05,55,Silver,Student,Medium,Other,Bachelor,Web,Organic
+1000286,Suresh,Mishra,55,Female,Kochi,Kerala,India,2023-05-05,39,Gold,Manager,Medium,Married,High School,Web,Email
+1000287,Sameer,Singh,69,Male,Warangal,Telangana,India,2024-10-17,22,Platinum,Teacher,High,Single,Bachelor,Android,Social Media
+1000288,Bhavna,Jain,61,Male,Ahmedabad,Gujarat,India,2019-11-17,81,Basic,Engineer,Low,Other,PhD,Web,Friend
+1000289,Vikas,Malhotra,21,Female,Kochi,Kerala,India,2022-02-05,54,Basic,Teacher,Low,Other,High School,Android,Email
+1000290,Manish,Kapoor,47,Female,Delhi,Delhi,India,2020-02-18,78,Silver,Developer,Medium,Single,Bachelor,iPhone,Social Media
+1000291,Pooja,Joshi,46,Male,Kolkata,West Bengal,India,2020-08-12,72,Basic,Manager,High,Married,High School,iPhone,Friend
+1000292,Anil,Joshi,65,Female,Coimbatore,Tamil Nadu,India,2022-06-27,50,Basic,Manager,Medium,Married,Master,Web,Social Media
+1000293,Isha,Malhotra,49,Male,Nagpur,Maharashtra,India,2025-10-13,10,Silver,Student,High,Single,Bachelor,Android,Friend
+1000294,Vikas,Mishra,70,Male,Kolkata,West Bengal,India,2024-09-06,23,Basic,Doctor,High,Single,High School,Android,Organic
+1000295,Gaurav,Shah,66,Female,Pune,Maharashtra,India,2024-02-13,30,Basic,Manager,Medium,Other,High School,Web,Organic
+1000296,Sameer,Singh,59,Female,Noida,Uttar Pradesh,India,2021-09-17,59,Platinum,Manager,Medium,Married,Master,Android,Friend
+1000297,Akash,Singh,45,Male,Delhi,Delhi,India,2020-01-06,79,Gold,Doctor,High,Other,Bachelor,Web,Ads
+1000298,Aarav,Chopra,70,Male,Ahmedabad,Gujarat,India,2022-01-07,55,Gold,Teacher,Medium,Single,Bachelor,iPhone,Email
+1000299,Prakash,Desai,45,Female,Coimbatore,Tamil Nadu,India,2022-06-05,50,Basic,Manager,Medium,Other,PhD,Web,Organic
+1000300,Mohit,Reddy,56,Female,Kochi,Kerala,India,2019-01-31,91,Silver,Manager,Low,Married,Master,iPhone,Friend
+1000301,Vikas,Joshi,30,Male,Delhi,Delhi,India,2026-05-11,3,Gold,Developer,Medium,Married,Bachelor,Web,Organic
+1000302,Rohit,Kapoor,37,Female,Lucknow,Uttar Pradesh,India,2026-05-08,3,Basic,Analyst,Medium,Other,Bachelor,iPhone,Referral
+1000303,Prakash,Agarwal,63,Female,Indore,Madhya Pradesh,India,2021-06-29,62,Basic,Teacher,High,Other,Bachelor,iPhone,Organic
+1000304,Yash,Singh,67,Female,Warangal,Telangana,India,2024-04-12,28,Platinum,Designer,Medium,Single,Master,Android,Referral
+1000305,Manish,Mishra,44,Female,Ahmedabad,Gujarat,India,2022-06-11,50,Basic,Engineer,Medium,Other,High School,iPhone,Ads
+1000306,Neha,Malhotra,54,Female,Hyderabad,Telangana,India,2024-08-11,24,Basic,Teacher,Low,Single,Master,iPhone,Email
+1000307,Divya,Verma,66,Female,Warangal,Telangana,India,2024-02-18,30,Silver,Teacher,Medium,Single,High School,iPhone,Friend
+1000308,Ananya,Kumar,52,Male,Bengaluru,Karnataka,India,2021-05-07,63,Silver,Consultant,Medium,Married,PhD,Android,Organic
+1000309,Nikhil,Agarwal,21,Female,Mysuru,Karnataka,India,2024-12-26,20,Basic,Analyst,Medium,Single,Bachelor,Web,Friend
+1000310,Varun,Mishra,45,Male,Warangal,Telangana,India,2022-07-02,49,Basic,Engineer,High,Married,Master,iPhone,Referral
+1000311,Arjun,Nair,48,Female,Kochi,Kerala,India,2024-11-01,21,Platinum,Manager,Medium,Single,Bachelor,iPhone,Organic
+1000312,Aditi,Mishra,34,Male,Chennai,Tamil Nadu,India,2021-07-24,61,Silver,Engineer,Medium,Other,High School,iPhone,Referral
+1000313,Akash,Gupta,59,Male,Indore,Madhya Pradesh,India,2021-11-13,57,Silver,Analyst,Low,Single,PhD,iPhone,Social Media
+1000314,Bhavna,Mehta,51,Female,Indore,Madhya Pradesh,India,2020-05-21,75,Silver,Analyst,Medium,Other,High School,Web,Email
+1000315,Varun,Jain,27,Female,Warangal,Telangana,India,2022-01-10,55,Basic,Engineer,Medium,Married,Bachelor,Web,Ads
+1000316,Rohit,Reddy,43,Male,Kochi,Kerala,India,2021-12-13,56,Basic,Student,Medium,Single,PhD,iPhone,Ads
+1000317,Zoya,Chopra,28,Male,Mumbai,Maharashtra,India,2019-01-12,91,Basic,Engineer,Medium,Single,High School,iPhone,Referral
+1000318,Sneha,Patel,37,Female,Jaipur,Rajasthan,India,2021-08-04,60,Basic,Teacher,High,Married,Master,Web,Friend
+1000319,Aditya,Sharma,69,Male,Hyderabad,Telangana,India,2023-10-11,34,Gold,Teacher,Medium,Married,Master,Web,Organic
+1000320,Riya,Kapoor,28,Male,Gurugram,Haryana,India,2023-03-07,41,Platinum,Business,High,Other,PhD,iPhone,Referral
+1000321,Akash,Singh,65,Male,Hyderabad,Telangana,India,2020-11-14,69,Basic,Developer,Medium,Other,PhD,Android,Email
+1000322,Arjun,Chopra,64,Male,Noida,Uttar Pradesh,India,2023-04-05,40,Gold,Engineer,High,Married,High School,Android,Friend
+1000323,Vikas,Mishra,66,Male,Gurugram,Haryana,India,2026-05-06,3,Silver,Doctor,High,Other,Master,Web,Email
+1000324,Kavya,Chopra,63,Female,Hyderabad,Telangana,India,2025-12-07,8,Basic,Consultant,Low,Other,High School,Android,Referral
+1000325,Deepak,Verma,52,Female,Kochi,Kerala,India,2020-10-04,70,Gold,Designer,Low,Married,High School,Web,Ads
+1000326,Ananya,Desai,36,Female,Kolkata,West Bengal,India,2025-03-04,17,Basic,Developer,Medium,Married,PhD,iPhone,Organic
+1000327,Rohit,Patel,46,Male,Mumbai,Maharashtra,India,2024-07-30,25,Silver,Analyst,High,Other,Master,Web,Email
+1000328,Akash,Joshi,44,Female,Jaipur,Rajasthan,India,2021-04-27,64,Gold,Designer,Medium,Other,PhD,Web,Referral
+1000329,Karan,Sharma,27,Male,Jaipur,Rajasthan,India,2023-01-28,43,Basic,Business,Medium,Married,High School,Android,Ads
+1000330,Manish,Jain,27,Female,Warangal,Telangana,India,2024-07-09,25,Basic,Engineer,High,Married,Bachelor,iPhone,Ads
+1000331,Anjali,Desai,23,Female,Hyderabad,Telangana,India,2022-10-16,46,Silver,Developer,High,Single,PhD,Android,Email
+1000332,Suresh,Agarwal,58,Female,Indore,Madhya Pradesh,India,2019-07-18,85,Gold,Teacher,Medium,Single,Bachelor,Android,Social Media
+1000333,Kavya,Shah,47,Female,Gurugram,Haryana,India,2026-05-17,3,Basic,Designer,High,Married,Bachelor,Android,Social Media
+1000334,Yash,Nair,65,Female,Kochi,Kerala,India,2025-10-03,10,Silver,Student,Medium,Single,Bachelor,Web,Referral
+1000335,Divya,Agarwal,66,Male,Noida,Uttar Pradesh,India,2022-04-05,52,Silver,Designer,Medium,Married,PhD,Web,Email
+1000336,Aarav,Agarwal,48,Female,Ahmedabad,Gujarat,India,2026-06-25,2,Basic,Consultant,Low,Other,High School,Android,Friend
+1000337,Akash,Reddy,30,Female,Delhi,Delhi,India,2020-10-21,70,Basic,Student,Low,Married,High School,Web,Referral
+1000338,Varun,Reddy,36,Female,Chennai,Tamil Nadu,India,2025-04-20,16,Silver,Analyst,High,Married,PhD,Web,Friend
+1000339,Manish,Mehta,68,Male,Pune,Maharashtra,India,2025-03-11,17,Silver,Manager,High,Other,Master,Web,Email
+1000340,Sameer,Singh,39,Male,Mysuru,Karnataka,India,2025-10-07,10,Platinum,Engineer,Low,Single,High School,iPhone,Organic
+1000341,Deepak,Mishra,29,Female,Coimbatore,Tamil Nadu,India,2023-10-22,34,Gold,Analyst,Medium,Other,Bachelor,Android,Ads
+1000342,Zoya,Bansal,52,Female,Pune,Maharashtra,India,2022-08-14,48,Basic,Designer,Medium,Single,High School,Web,Ads
+1000343,Prakash,Joshi,26,Female,Indore,Madhya Pradesh,India,2023-08-31,36,Gold,Designer,Medium,Married,Bachelor,Web,Email
+1000344,Prakash,Desai,28,Male,Indore,Madhya Pradesh,India,2024-04-29,28,Basic,Developer,High,Single,High School,Web,Friend
+1000345,Vivek,Reddy,37,Female,Hyderabad,Telangana,India,2023-04-12,40,Basic,Student,High,Married,PhD,iPhone,Organic
+1000346,Ananya,Gupta,53,Female,Mysuru,Karnataka,India,2022-04-29,52,Basic,Student,Medium,Other,High School,Android,Referral
+1000347,Isha,Bansal,27,Female,Mysuru,Karnataka,India,2026-01-22,7,Gold,Consultant,Medium,Single,Bachelor,Android,Social Media
+1000348,Akash,Singh,25,Male,Pune,Maharashtra,India,2022-09-20,47,Gold,Student,Low,Single,Master,iPhone,Social Media
+1000349,Aditi,Kapoor,41,Female,Kolkata,West Bengal,India,2024-01-22,31,Silver,Student,Low,Other,High School,Web,Email
+1000350,Anil,Reddy,53,Female,Nagpur,Maharashtra,India,2019-07-06,85,Gold,Business,Medium,Married,PhD,iPhone,Social Media
+1000351,Vivek,Joshi,31,Female,Mumbai,Maharashtra,India,2026-05-30,3,Basic,Consultant,Medium,Other,Master,Web,Ads
+1000352,Yash,Kumar,56,Male,Noida,Uttar Pradesh,India,2022-05-05,51,Basic,Analyst,Medium,Married,High School,iPhone,Ads
+1000353,Varun,Kumar,62,Female,Mysuru,Karnataka,India,2022-11-09,45,Basic,Doctor,Medium,Married,Bachelor,Android,Ads
+1000354,Yash,Verma,62,Female,Pune,Maharashtra,India,2026-07-11,1,Basic,Engineer,Medium,Single,PhD,iPhone,Friend
+1000355,Amit,Mehta,39,Male,Chennai,Tamil Nadu,India,2020-06-09,74,Basic,Manager,Medium,Other,Master,Web,Email
+1000356,Deepak,Sharma,48,Female,Noida,Uttar Pradesh,India,2020-09-16,71,Basic,Doctor,Medium,Other,PhD,iPhone,Friend
+1000357,Sameer,Iyer,50,Female,Gurugram,Haryana,India,2020-07-04,73,Gold,Manager,Medium,Single,High School,iPhone,Ads
+1000358,Amit,Verma,67,Female,Mysuru,Karnataka,India,2025-01-15,19,Gold,Student,Medium,Other,PhD,Web,Ads
+1000359,Vivek,Chopra,55,Female,Indore,Madhya Pradesh,India,2019-05-31,87,Silver,Teacher,Medium,Single,Master,Android,Social Media
+1000360,Priya,Agarwal,46,Male,Kochi,Kerala,India,2024-08-14,24,Basic,Doctor,High,Other,Bachelor,Web,Ads
+1000361,Zoya,Kumar,57,Male,Bengaluru,Karnataka,India,2024-01-02,31,Silver,Manager,High,Single,Bachelor,iPhone,Ads
+1000362,Aditya,Mehta,35,Female,Coimbatore,Tamil Nadu,India,2019-09-15,83,Silver,Designer,Medium,Married,High School,Android,Referral
+1000363,Manish,Mishra,68,Female,Hyderabad,Telangana,India,2022-08-20,48,Silver,Teacher,Medium,Married,Master,Web,Referral
+1000364,Karan,Agarwal,45,Female,Kochi,Kerala,India,2019-11-15,81,Basic,Designer,Medium,Married,High School,Web,Ads
+1000365,Varun,Shah,25,Male,Bengaluru,Karnataka,India,2023-12-07,32,Basic,Teacher,Low,Other,High School,Web,Ads
+1000366,Suresh,Chopra,51,Male,Gurugram,Haryana,India,2023-08-26,36,Basic,Teacher,Medium,Married,High School,Android,Organic
+1000367,Varun,Patel,61,Male,Bengaluru,Karnataka,India,2020-06-07,74,Gold,Teacher,Low,Married,Bachelor,Web,Social Media
+1000368,Isha,Desai,26,Female,Mumbai,Maharashtra,India,2025-09-20,11,Silver,Manager,High,Single,Bachelor,iPhone,Email
+1000369,Pooja,Desai,31,Female,Bengaluru,Karnataka,India,2020-08-07,72,Silver,Engineer,Low,Married,Bachelor,Android,Organic
+1000370,Anil,Singh,30,Female,Kochi,Kerala,India,2021-04-08,64,Silver,Developer,Medium,Other,High School,Android,Social Media
+1000371,Sakshi,Agarwal,70,Male,Warangal,Telangana,India,2026-05-24,3,Basic,Analyst,Medium,Married,Bachelor,iPhone,Social Media
+1000372,Manish,Chopra,29,Female,Hyderabad,Telangana,India,2022-12-06,44,Gold,Engineer,Medium,Other,PhD,iPhone,Ads
+1000373,Aarav,Kapoor,54,Male,Mumbai,Maharashtra,India,2019-01-23,91,Silver,Designer,Medium,Single,Bachelor,iPhone,Referral
+1000374,Sakshi,Mishra,55,Female,Coimbatore,Tamil Nadu,India,2025-07-25,13,Basic,Business,High,Married,Bachelor,iPhone,Email
+1000375,Yash,Bansal,44,Male,Lucknow,Uttar Pradesh,India,2025-04-02,16,Silver,Business,Medium,Other,PhD,Web,Ads
+1000376,Deepak,Gupta,49,Male,Hyderabad,Telangana,India,2026-05-24,3,Basic,Consultant,Medium,Other,High School,Android,Social Media
+1000377,Suresh,Jain,30,Male,Mumbai,Maharashtra,India,2026-02-17,6,Basic,Engineer,Medium,Married,High School,Web,Organic
+1000378,Akash,Singh,66,Female,Kolkata,West Bengal,India,2023-04-24,40,Silver,Manager,Low,Other,Master,Android,Organic
+1000379,Deepak,Patel,60,Male,Kochi,Kerala,India,2025-09-21,11,Basic,Analyst,High,Single,Master,iPhone,Friend
+1000380,Gaurav,Agarwal,58,Female,Kolkata,West Bengal,India,2026-07-05,1,Basic,Engineer,High,Other,Master,Web,Email
+1000381,Karan,Jain,38,Female,Noida,Uttar Pradesh,India,2025-07-15,13,Platinum,Manager,High,Other,High School,iPhone,Ads
+1000382,Amit,Agarwal,56,Male,Kochi,Kerala,India,2023-07-26,37,Basic,Engineer,High,Married,Master,Web,Social Media
+1000383,Pooja,Desai,69,Male,Lucknow,Uttar Pradesh,India,2023-03-25,41,Silver,Developer,High,Married,High School,iPhone,Organic
+1000384,Rohit,Iyer,41,Male,Chennai,Tamil Nadu,India,2023-04-17,40,Silver,Analyst,Medium,Married,Bachelor,iPhone,Organic
+1000385,Divya,Chopra,56,Male,Gurugram,Haryana,India,2023-06-23,38,Basic,Doctor,High,Married,Bachelor,Web,Referral
+1000386,Kavya,Shah,36,Male,Lucknow,Uttar Pradesh,India,2021-02-17,66,Basic,Doctor,High,Other,Master,Android,Organic
+1000387,Aarav,Bansal,60,Female,Nagpur,Maharashtra,India,2020-05-06,75,Platinum,Manager,Medium,Married,PhD,Web,Friend
+1000388,Karan,Mishra,46,Female,Bengaluru,Karnataka,India,2024-07-03,25,Basic,Student,Medium,Married,High School,Web,Friend
+1000389,Vikas,Desai,28,Female,Bengaluru,Karnataka,India,2023-06-01,38,Basic,Analyst,Low,Single,PhD,Web,Organic
+1000390,Yash,Shah,32,Female,Noida,Uttar Pradesh,India,2022-08-25,48,Basic,Manager,High,Married,Master,Android,Social Media
+1000391,Priya,Iyer,65,Female,Mysuru,Karnataka,India,2023-10-03,34,Gold,Business,Medium,Other,Bachelor,Web,Referral
+1000392,Yash,Malhotra,36,Female,Hyderabad,Telangana,India,2021-07-25,61,Gold,Doctor,Low,Other,Bachelor,iPhone,Organic
+1000393,Vikas,Bansal,29,Female,Ahmedabad,Gujarat,India,2020-12-24,68,Silver,Manager,Medium,Other,High School,iPhone,Organic
+1000394,Suresh,Gupta,37,Male,Pune,Maharashtra,India,2020-10-31,70,Basic,Designer,Medium,Married,Master,iPhone,Organic
+1000395,Gaurav,Mishra,64,Female,Hyderabad,Telangana,India,2023-08-14,36,Silver,Student,Low,Married,Master,iPhone,Referral
+1000396,Rahul,Jain,26,Female,Lucknow,Uttar Pradesh,India,2024-09-21,23,Basic,Teacher,High,Other,Master,iPhone,Referral
+1000397,Deepak,Nair,26,Male,Kolkata,West Bengal,India,2025-11-13,9,Basic,Designer,Medium,Other,Master,Web,Referral
+1000398,Priya,Mishra,70,Female,Coimbatore,Tamil Nadu,India,2023-06-08,38,Silver,Manager,Medium,Single,High School,Android,Referral
+1000399,Deepak,Kapoor,34,Male,Coimbatore,Tamil Nadu,India,2021-08-19,60,Basic,Engineer,High,Married,High School,Android,Social Media
+1000400,Bhavna,Verma,37,Male,Nagpur,Maharashtra,India,2024-11-16,21,Silver,Consultant,Medium,Single,Master,iPhone,Referral
+1000401,Aditya,Iyer,22,Male,Warangal,Telangana,India,2020-06-01,74,Gold,Designer,High,Married,Master,Web,Social Media
+1000402,Sneha,Mishra,58,Male,Indore,Madhya Pradesh,India,2020-07-07,73,Basic,Student,Medium,Married,PhD,Web,Ads
+1000403,Rohit,Shah,44,Female,Jaipur,Rajasthan,India,2020-01-02,79,Basic,Analyst,Low,Single,Master,iPhone,Social Media
+1000404,Suresh,Reddy,69,Female,Mumbai,Maharashtra,India,2024-12-31,20,Basic,Consultant,Medium,Other,Bachelor,Android,Email
+1000405,Sakshi,Kapoor,56,Female,Mysuru,Karnataka,India,2023-03-11,41,Basic,Consultant,High,Single,Master,Android,Social Media
+1000406,Vivek,Shah,39,Female,Chennai,Tamil Nadu,India,2026-01-05,7,Basic,Engineer,Low,Married,High School,Web,Social Media
+1000407,Tanvi,Mehta,65,Female,Jaipur,Rajasthan,India,2025-12-05,8,Basic,Teacher,Low,Other,High School,Android,Organic
+1000408,Sameer,Sharma,66,Male,Coimbatore,Tamil Nadu,India,2022-03-01,53,Basic,Teacher,Low,Single,Master,iPhone,Friend
+1000409,Aditya,Nair,65,Female,Noida,Uttar Pradesh,India,2024-08-03,24,Basic,Teacher,Low,Married,High School,Web,Social Media
+1000410,Aarav,Gupta,45,Female,Mysuru,Karnataka,India,2021-01-13,67,Platinum,Doctor,Medium,Married,Bachelor,Web,Organic
+1000411,Isha,Chopra,54,Male,Jaipur,Rajasthan,India,2021-03-26,65,Basic,Business,High,Single,High School,Web,Email
+1000412,Neha,Mehta,51,Female,Hyderabad,Telangana,India,2024-11-03,21,Basic,Analyst,High,Single,High School,Android,Referral
+1000413,Meera,Mishra,31,Male,Gurugram,Haryana,India,2023-11-14,33,Basic,Doctor,Low,Single,PhD,Web,Email
+1000414,Deepak,Chopra,36,Male,Noida,Uttar Pradesh,India,2020-09-26,71,Basic,Developer,Medium,Other,High School,Android,Friend
+1000415,Tanvi,Joshi,29,Male,Warangal,Telangana,India,2026-03-25,5,Basic,Student,Medium,Married,PhD,Web,Ads
+1000416,Arjun,Shah,67,Female,Kolkata,West Bengal,India,2019-03-29,89,Gold,Manager,Medium,Other,Master,Web,Referral
+1000417,Prakash,Nair,55,Male,Mysuru,Karnataka,India,2024-06-30,26,Silver,Business,High,Other,Bachelor,Android,Email
+1000418,Vivek,Iyer,37,Female,Jaipur,Rajasthan,India,2020-09-26,71,Silver,Student,Medium,Single,High School,Web,Friend
+1000419,Amit,Bansal,67,Female,Chennai,Tamil Nadu,India,2025-12-15,8,Gold,Doctor,Medium,Married,Bachelor,Web,Friend
+1000420,Anil,Agarwal,28,Female,Ahmedabad,Gujarat,India,2022-08-14,48,Silver,Analyst,High,Single,Bachelor,Android,Ads
+1000421,Aditya,Mishra,27,Male,Lucknow,Uttar Pradesh,India,2020-03-14,77,Silver,Consultant,Medium,Other,Master,Android,Friend
+1000422,Tanvi,Verma,34,Male,Nagpur,Maharashtra,India,2021-06-23,62,Silver,Analyst,Medium,Other,PhD,iPhone,Referral
+1000423,Amit,Reddy,67,Male,Coimbatore,Tamil Nadu,India,2019-08-27,84,Basic,Doctor,High,Single,High School,Web,Ads
+1000424,Vikas,Joshi,33,Male,Kolkata,West Bengal,India,2024-12-17,20,Silver,Teacher,Medium,Other,PhD,Web,Organic
+1000425,Sakshi,Gupta,65,Female,Noida,Uttar Pradesh,India,2026-02-28,6,Basic,Teacher,Medium,Other,Master,Web,Ads
+1000426,Yash,Nair,41,Female,Jaipur,Rajasthan,India,2024-12-26,20,Gold,Consultant,Medium,Married,Master,Web,Ads
+1000427,Yash,Shah,45,Male,Indore,Madhya Pradesh,India,2025-04-25,16,Basic,Manager,Medium,Married,High School,Web,Organic
+1000428,Aarav,Reddy,40,Male,Mumbai,Maharashtra,India,2022-03-11,53,Platinum,Doctor,High,Single,Master,Web,Email
+1000429,Sneha,Iyer,23,Male,Warangal,Telangana,India,2025-03-28,17,Basic,Business,Medium,Other,Bachelor,Android,Friend
+1000430,Isha,Verma,57,Female,Nagpur,Maharashtra,India,2022-05-15,51,Silver,Manager,Low,Other,High School,Web,Referral
+1000431,Akash,Nair,26,Female,Pune,Maharashtra,India,2022-05-15,51,Basic,Consultant,Medium,Single,Bachelor,Web,Referral
+1000432,Neha,Agarwal,24,Female,Mumbai,Maharashtra,India,2025-10-03,10,Basic,Student,Medium,Married,Bachelor,Android,Organic
+1000433,Zoya,Agarwal,69,Female,Kolkata,West Bengal,India,2026-07-22,1,Basic,Consultant,Medium,Married,Bachelor,Android,Friend
+1000434,Riya,Shah,56,Male,Lucknow,Uttar Pradesh,India,2019-12-05,80,Basic,Student,Medium,Other,Bachelor,Android,Social Media
+1000435,Zoya,Mehta,46,Female,Mysuru,Karnataka,India,2025-04-09,16,Silver,Student,Low,Single,Master,iPhone,Friend
+1000436,Rohit,Malhotra,63,Male,Nagpur,Maharashtra,India,2025-06-17,14,Basic,Doctor,Medium,Other,High School,iPhone,Ads
+1000437,Aditya,Joshi,49,Male,Jaipur,Rajasthan,India,2022-12-03,44,Basic,Designer,Low,Other,High School,Android,Referral
+1000438,Aarav,Nair,39,Male,Chennai,Tamil Nadu,India,2019-08-12,84,Silver,Engineer,Medium,Married,High School,iPhone,Ads
+1000439,Vikas,Shah,55,Male,Mysuru,Karnataka,India,2025-01-12,19,Silver,Developer,Medium,Single,High School,iPhone,Email
+1000440,Deepak,Patel,37,Male,Kochi,Kerala,India,2026-06-10,2,Basic,Developer,Medium,Married,High School,Android,Social Media
+1000441,Aditi,Reddy,27,Female,Coimbatore,Tamil Nadu,India,2026-05-28,3,Gold,Consultant,Low,Married,High School,iPhone,Social Media
+1000442,Gaurav,Agarwal,32,Male,Indore,Madhya Pradesh,India,2025-09-11,11,Platinum,Student,High,Single,High School,Android,Email
+1000443,Deepak,Sharma,46,Female,Gurugram,Haryana,India,2022-06-02,50,Basic,Designer,Medium,Married,Bachelor,Web,Friend
+1000444,Yash,Shah,22,Female,Coimbatore,Tamil Nadu,India,2019-09-11,83,Basic,Designer,High,Other,Bachelor,Android,Referral
+1000445,Kavya,Mishra,47,Male,Kochi,Kerala,India,2023-04-15,40,Basic,Business,High,Married,PhD,Web,Ads
+1000446,Neha,Agarwal,29,Male,Warangal,Telangana,India,2021-04-26,64,Gold,Consultant,High,Single,Bachelor,iPhone,Organic
+1000447,Nikhil,Kumar,32,Male,Indore,Madhya Pradesh,India,2025-04-01,16,Silver,Designer,High,Married,PhD,iPhone,Social Media
+1000448,Gaurav,Gupta,70,Male,Coimbatore,Tamil Nadu,India,2026-02-21,6,Basic,Analyst,Medium,Other,Master,Web,Email
+1000449,Aditi,Iyer,35,Male,Chennai,Tamil Nadu,India,2025-11-13,9,Basic,Manager,Low,Other,PhD,Web,Referral
+1000450,Suresh,Kumar,52,Female,Bengaluru,Karnataka,India,2023-03-12,41,Basic,Doctor,Low,Single,Master,iPhone,Ads
+1000451,Divya,Desai,25,Male,Mysuru,Karnataka,India,2026-07-12,1,Gold,Manager,Medium,Married,Bachelor,iPhone,Social Media
+1000452,Zoya,Jain,46,Female,Kolkata,West Bengal,India,2019-06-21,86,Silver,Analyst,Medium,Married,PhD,Android,Ads
+1000453,Aditya,Bansal,68,Female,Indore,Madhya Pradesh,India,2024-10-25,22,Basic,Analyst,Low,Married,PhD,iPhone,Friend
+1000454,Akash,Agarwal,39,Female,Bengaluru,Karnataka,India,2024-03-04,29,Gold,Manager,High,Married,High School,Web,Email
+1000455,Rohit,Nair,46,Male,Bengaluru,Karnataka,India,2020-04-08,76,Silver,Teacher,Medium,Other,Bachelor,iPhone,Organic
+1000456,Anjali,Verma,66,Male,Gurugram,Haryana,India,2021-10-21,58,Basic,Manager,Medium,Single,PhD,Web,Email
+1000457,Rahul,Patel,56,Female,Bengaluru,Karnataka,India,2025-11-12,9,Gold,Designer,Medium,Other,Bachelor,Android,Ads
+1000458,Neha,Desai,40,Female,Pune,Maharashtra,India,2021-01-02,67,Basic,Teacher,Low,Single,Bachelor,Android,Email
+1000459,Tanvi,Bansal,52,Female,Mumbai,Maharashtra,India,2021-11-02,57,Gold,Developer,High,Single,Bachelor,Web,Referral
+1000460,Ananya,Jain,49,Female,Jaipur,Rajasthan,India,2024-05-02,27,Silver,Doctor,High,Married,Bachelor,Android,Ads
+1000461,Bhavna,Patel,23,Female,Pune,Maharashtra,India,2020-08-30,72,Silver,Developer,Medium,Single,High School,Android,Social Media
+1000462,Zoya,Bansal,60,Female,Bengaluru,Karnataka,India,2020-12-31,68,Basic,Manager,Medium,Married,High School,Android,Friend
+1000463,Sakshi,Bansal,25,Female,Noida,Uttar Pradesh,India,2022-08-15,48,Basic,Manager,Low,Other,Master,iPhone,Email
+1000464,Isha,Jain,65,Male,Kochi,Kerala,India,2023-08-22,36,Basic,Developer,Medium,Other,High School,iPhone,Referral
+1000465,Nikhil,Shah,59,Female,Delhi,Delhi,India,2025-10-13,10,Silver,Developer,Medium,Single,PhD,Web,Referral
+1000466,Karan,Reddy,32,Female,Lucknow,Uttar Pradesh,India,2026-02-01,6,Platinum,Analyst,Low,Married,High School,Web,Ads
+1000467,Pooja,Iyer,23,Female,Ahmedabad,Gujarat,India,2025-11-25,9,Silver,Doctor,Low,Single,Master,iPhone,Organic
+1000468,Aarav,Gupta,70,Female,Delhi,Delhi,India,2022-06-14,50,Silver,Designer,Medium,Other,High School,Android,Ads
+1000469,Aditya,Kumar,51,Female,Gurugram,Haryana,India,2022-09-15,47,Silver,Manager,High,Other,Master,iPhone,Social Media
+1000470,Nikhil,Bansal,57,Female,Kochi,Kerala,India,2019-08-18,84,Silver,Doctor,Medium,Married,Master,Android,Ads
+1000471,Vivek,Singh,45,Female,Mumbai,Maharashtra,India,2022-02-22,54,Silver,Consultant,Low,Single,Master,Web,Friend
+1000472,Tanvi,Joshi,26,Female,Coimbatore,Tamil Nadu,India,2019-05-10,87,Basic,Business,Low,Married,Bachelor,Android,Friend
+1000473,Varun,Sharma,49,Male,Mysuru,Karnataka,India,2019-06-03,86,Gold,Student,Low,Married,PhD,Web,Email
+1000474,Anil,Agarwal,70,Male,Gurugram,Haryana,India,2022-06-25,50,Silver,Teacher,Low,Single,PhD,iPhone,Referral
+1000475,Aditya,Jain,40,Male,Hyderabad,Telangana,India,2024-11-09,21,Gold,Designer,Medium,Single,High School,Web,Referral
+1000476,Isha,Nair,61,Female,Mumbai,Maharashtra,India,2022-07-03,49,Basic,Business,Medium,Married,PhD,Web,Organic
+1000477,Anjali,Sharma,38,Male,Warangal,Telangana,India,2022-01-21,55,Platinum,Student,Medium,Single,Master,Web,Friend
+1000478,Kavya,Singh,57,Female,Warangal,Telangana,India,2022-01-15,55,Basic,Developer,High,Other,PhD,Android,Ads
+1000479,Rahul,Patel,27,Male,Lucknow,Uttar Pradesh,India,2019-04-29,88,Basic,Consultant,Low,Other,PhD,Web,Friend
+1000480,Vivek,Verma,66,Male,Gurugram,Haryana,India,2022-07-03,49,Platinum,Manager,Medium,Single,PhD,Android,Social Media
+1000481,Karan,Kumar,35,Female,Jaipur,Rajasthan,India,2022-06-25,50,Gold,Developer,Medium,Married,PhD,Android,Referral
+1000482,Tanvi,Sharma,50,Female,Gurugram,Haryana,India,2026-06-17,2,Basic,Engineer,Medium,Married,Bachelor,iPhone,Friend
+1000483,Anil,Nair,46,Male,Warangal,Telangana,India,2025-10-11,10,Silver,Engineer,Medium,Other,PhD,iPhone,Email
+1000484,Deepak,Chopra,56,Male,Chennai,Tamil Nadu,India,2023-08-21,36,Basic,Designer,Low,Other,PhD,iPhone,Email
+1000485,Amit,Mishra,32,Male,Indore,Madhya Pradesh,India,2022-11-02,45,Gold,Engineer,Medium,Married,Master,Web,Organic
+1000486,Amit,Jain,46,Female,Bengaluru,Karnataka,India,2023-12-29,32,Basic,Developer,Medium,Married,Master,iPhone,Referral
+1000487,Arjun,Mishra,34,Male,Pune,Maharashtra,India,2026-05-28,3,Gold,Analyst,Medium,Other,Bachelor,iPhone,Email
+1000488,Isha,Nair,33,Female,Kolkata,West Bengal,India,2022-04-08,52,Basic,Business,High,Married,Master,Android,Email
+1000489,Mohit,Patel,29,Female,Kochi,Kerala,India,2019-02-03,90,Basic,Student,High,Single,Master,Android,Friend
+1000490,Riya,Nair,65,Female,Chennai,Tamil Nadu,India,2019-05-08,87,Silver,Consultant,Medium,Other,Bachelor,Web,Ads
+1000491,Rahul,Iyer,56,Male,Warangal,Telangana,India,2024-04-29,28,Gold,Teacher,Medium,Other,Bachelor,Android,Organic
+1000492,Tanvi,Malhotra,67,Male,Mumbai,Maharashtra,India,2019-10-21,82,Platinum,Teacher,Low,Other,PhD,iPhone,Referral
+1000493,Varun,Malhotra,50,Male,Ahmedabad,Gujarat,India,2025-10-11,10,Silver,Manager,Medium,Single,Bachelor,iPhone,Email
+1000494,Varun,Shah,66,Male,Lucknow,Uttar Pradesh,India,2019-01-31,91,Basic,Student,Medium,Single,High School,Web,Social Media
+1000495,Ananya,Kumar,65,Female,Hyderabad,Telangana,India,2023-02-18,42,Silver,Student,High,Married,PhD,Web,Organic
+1000496,Amit,Bansal,51,Male,Nagpur,Maharashtra,India,2024-11-13,21,Gold,Business,Medium,Married,High School,iPhone,Social Media
+1000497,Prakash,Reddy,47,Female,Lucknow,Uttar Pradesh,India,2024-09-30,23,Basic,Analyst,Medium,Other,Master,Web,Email
+1000498,Deepak,Mishra,58,Female,Pune,Maharashtra,India,2021-12-02,56,Basic,Business,High,Other,High School,iPhone,Social Media
+1000499,Manish,Kumar,38,Male,Warangal,Telangana,India,2019-12-04,80,Silver,Business,High,Single,High School,Web,Ads
+1000500,Divya,Shah,44,Female,Warangal,Telangana,India,2025-08-20,12,Gold,Doctor,Medium,Other,High School,iPhone,Organic
